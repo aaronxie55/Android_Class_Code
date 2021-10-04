@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiNotes</string>
+    <string name="sysabout">system</string>
+    <string name="edit">edit</string>
+    <string name="file_name">Product.json</string>
+    <string name="no_file">No JSON Product File Present</string>
+    <string name="encoding">UTF-8</string>
+</resources>

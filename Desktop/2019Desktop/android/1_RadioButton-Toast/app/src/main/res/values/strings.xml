@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RadioButton-Toast</string>
+    <string name="r1_text">Android</string>
+    <string name="r2_text">iOS</string>
+    <string name="r3_text">WIndows</string>
+    <string name="r4_text">Uber</string>
+    <string name="r5_text">Lyft</string>
+    <string name="r6_text">Taxi</string>
+</resources>

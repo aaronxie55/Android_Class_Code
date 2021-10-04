@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/About"
+        android:icon="@drawable/icon2"
+        android:title="About_Option"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/Create"
+        android:icon="@drawable/icon1"
+        android:title="Edit_Options"
+        app:showAsAction="always" />
+</menu>

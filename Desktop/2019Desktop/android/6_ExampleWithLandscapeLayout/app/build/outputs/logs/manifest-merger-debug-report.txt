@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4bc2b14fa33c28c7cb11d911ecc75f1b\appcompat-v7-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4c43f906abd2b69edf7da5c5ee7356a3\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\02619e5475969333cef3f26d804f22e2\support-fragment-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\3cebf4baf5ad6b84f8f5f61a51fef0a1\animated-vector-drawable-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\941b2e7e0202a0a8e410ebee3bebfcd7\support-core-ui-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fc9d3985acb937feb8c0ed99a032e46a\support-core-utils-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\98ca3fbcf8d0e45ca50839953e033b0f\support-vector-drawable-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\71880157d44ab86809369ccd8422b636\loader-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b85a97c0d53b7f277115a87c639f09aa\viewpager-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b502a885305de694e3070ef7c71b65cc\coordinatorlayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b26d102fc0d4558a0c78e201711332bc\drawerlayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\6352ad9663919f3d29f94dc0c2913eb7\slidingpanelayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\a2e56534a5c1c4764d2dab2517d1b98f\customview-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\d2602d5bbf0450a21a3e6b45da4dbb82\swiperefreshlayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\22d411a10341a11a61f775ff7ce55f16\asynclayoutinflater-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\94e0e72b03d95cb1c481a3795d73c0b9\support-compat-28.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fbcbad0e4facf6b2d8fe98977b82b76a\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\cf6d310168d31997f159fa3bd88ca089\cursoradapter-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\2a54fb7d4a09e43fd13a659c38a9bf2a\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\2697603e027ff6b2b917d6a3364655f6\documentfile-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\707f9163cf16662ef3de41355319a54f\localbroadcastmanager-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\c4595d6f43d2ce89db3073da8a9c751c\print-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\426821499609b124edd91485548e30d0\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\6104c576404b17797d5f42ae60105d1d\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\7c5e711cb7599bc18a19cc1df98bc8d6\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\e4aba3edb844d5b0bc5447c5b1d62e34\interpolator-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:3:5-60
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:1-20:12
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:5:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4c43f906abd2b69edf7da5c5ee7356a3\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4c43f906abd2b69edf7da5c5ee7356a3\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\94e0e72b03d95cb1c481a3795d73c0b9\support-compat-28.0.0-rc01\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\94e0e72b03d95cb1c481a3795d73c0b9\support-compat-28.0.0-rc01\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fbcbad0e4facf6b2d8fe98977b82b76a\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fbcbad0e4facf6b2d8fe98977b82b76a\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\94e0e72b03d95cb1c481a3795d73c0b9\support-compat-28.0.0-rc01\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.christopherhield.textview_edittext_button.MainActivity
+ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml:15:27-74
+uses-sdk
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4bc2b14fa33c28c7cb11d911ecc75f1b\appcompat-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4bc2b14fa33c28c7cb11d911ecc75f1b\appcompat-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4c43f906abd2b69edf7da5c5ee7356a3\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\4c43f906abd2b69edf7da5c5ee7356a3\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\02619e5475969333cef3f26d804f22e2\support-fragment-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\02619e5475969333cef3f26d804f22e2\support-fragment-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\3cebf4baf5ad6b84f8f5f61a51fef0a1\animated-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\3cebf4baf5ad6b84f8f5f61a51fef0a1\animated-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\941b2e7e0202a0a8e410ebee3bebfcd7\support-core-ui-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\941b2e7e0202a0a8e410ebee3bebfcd7\support-core-ui-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fc9d3985acb937feb8c0ed99a032e46a\support-core-utils-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fc9d3985acb937feb8c0ed99a032e46a\support-core-utils-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\98ca3fbcf8d0e45ca50839953e033b0f\support-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\98ca3fbcf8d0e45ca50839953e033b0f\support-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\71880157d44ab86809369ccd8422b636\loader-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\71880157d44ab86809369ccd8422b636\loader-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b85a97c0d53b7f277115a87c639f09aa\viewpager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b85a97c0d53b7f277115a87c639f09aa\viewpager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b502a885305de694e3070ef7c71b65cc\coordinatorlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b502a885305de694e3070ef7c71b65cc\coordinatorlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b26d102fc0d4558a0c78e201711332bc\drawerlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\b26d102fc0d4558a0c78e201711332bc\drawerlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\6352ad9663919f3d29f94dc0c2913eb7\slidingpanelayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\6352ad9663919f3d29f94dc0c2913eb7\slidingpanelayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\a2e56534a5c1c4764d2dab2517d1b98f\customview-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\a2e56534a5c1c4764d2dab2517d1b98f\customview-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\d2602d5bbf0450a21a3e6b45da4dbb82\swiperefreshlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\d2602d5bbf0450a21a3e6b45da4dbb82\swiperefreshlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\22d411a10341a11a61f775ff7ce55f16\asynclayoutinflater-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\22d411a10341a11a61f775ff7ce55f16\asynclayoutinflater-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\94e0e72b03d95cb1c481a3795d73c0b9\support-compat-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\94e0e72b03d95cb1c481a3795d73c0b9\support-compat-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fbcbad0e4facf6b2d8fe98977b82b76a\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\fbcbad0e4facf6b2d8fe98977b82b76a\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\cf6d310168d31997f159fa3bd88ca089\cursoradapter-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\cf6d310168d31997f159fa3bd88ca089\cursoradapter-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\2a54fb7d4a09e43fd13a659c38a9bf2a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\2a54fb7d4a09e43fd13a659c38a9bf2a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\2697603e027ff6b2b917d6a3364655f6\documentfile-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\2697603e027ff6b2b917d6a3364655f6\documentfile-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\707f9163cf16662ef3de41355319a54f\localbroadcastmanager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\707f9163cf16662ef3de41355319a54f\localbroadcastmanager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\c4595d6f43d2ce89db3073da8a9c751c\print-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\c4595d6f43d2ce89db3073da8a9c751c\print-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\426821499609b124edd91485548e30d0\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\426821499609b124edd91485548e30d0\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\6104c576404b17797d5f42ae60105d1d\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\6104c576404b17797d5f42ae60105d1d\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\7c5e711cb7599bc18a19cc1df98bc8d6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\7c5e711cb7599bc18a19cc1df98bc8d6\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\e4aba3edb844d5b0bc5447c5b1d62e34\interpolator-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Aaron Xie\.gradle\caches\transforms-2\files-2.1\e4aba3edb844d5b0bc5447c5b1d62e34\interpolator-28.0.0-rc01\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Aaron Xie\Desktop\android\6_ExampleWithLandscapeLayout\app\src\main\AndroidManifest.xml

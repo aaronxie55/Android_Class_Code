@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/sys_about"
+        android:icon="@android:drawable/btn_dialog"
+        android:title="@string/sysabout"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/edit_button"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="@string/edit"
+        app:showAsAction="always" />
+</menu>
